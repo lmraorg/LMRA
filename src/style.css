@@ -374,6 +374,12 @@ article * {
     }
 }
 
+@media screen and (max-height: 768px) {
+    .hero {
+        padding: 75px 0;
+    }
+}
+
 @media screen and (max-width: 480px) {
     .hero {
         padding: 50px 0;
