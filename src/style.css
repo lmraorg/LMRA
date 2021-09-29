@@ -591,6 +591,33 @@ article * {
     }
 }
 
+@media screen and (max-width: 375px) {
+    .about {
+        padding: 0.25in 15px;
+    }
+
+    .about__content {
+        padding: 10px 0;
+    }
+
+    .about__card {
+        margin-bottom: 3.5px;
+        padding: 12.5px;
+    }
+
+    .about__content h2 {
+        font-size: 1.6rem;
+    }
+
+    .about__content h3 {
+        font-size: 1.2rem;
+    }
+
+    .about__content p {
+        font-size: 1.2rem;
+    }
+}
+
 /* Lawnmower Rights Page */
 .article__content {
     color: #ffffff;
