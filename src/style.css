@@ -187,7 +187,11 @@ body {
     }
 
     #navbar__logo {
-        padding-left: 25px;
+        margin-left: 25px;
+    }
+
+    .bar {
+        border-radius: 999px;
     }
 
     .navbar__toggle .bar {
