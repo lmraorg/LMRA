@@ -595,7 +595,7 @@ article * {
     }
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 400px) {
     .about {
         padding: 0.25in 15px;
     }
