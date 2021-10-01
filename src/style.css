@@ -182,7 +182,7 @@ body {
         opacity: 1;
         transition: all 0.5s ease;
         z-index: 99;
-        height: 60vh;
+        height: 75vh;
         font-size: 1.6rem;
     }
 
@@ -287,7 +287,6 @@ article * {
     height: 90%;
     text-align: center;
     padding: 0 30px;
-    /* max-width: 1300px; */
 }
 
 .hero__heading {
