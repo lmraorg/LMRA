@@ -8,3 +8,7 @@ const mobileMenu = () => {
 };
 
 menu.addEventListener("click", mobileMenu);
+
+function unspoiler(img__spoiler) {
+    img__spoiler.parentNode.classList.add("nospoiler");
+}
