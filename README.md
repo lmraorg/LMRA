@@ -1,6 +1,6 @@
 # LMRA
 Repository for the Lawn Mower Rights Activists website.\
-Visit live at [LMRA-Org.web.app](https://lmra-org.web.app) or [LMRA.ml](https://lmra.ml)
+Visit live at [LMRA.web.app](https://lmra.web.app) or [LMRA.ml](https://lmra.ml)
 
 ## About
 The Lawn Mower Rights Activists is an organization with a mission to initiate equality for lawn mowers.
